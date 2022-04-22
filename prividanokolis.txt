@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="index.html">Home</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="prividanokolis.html">Prividan okoliš</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="vrmlprogramskijezik.html">VRML</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="virtualnaoprema.html">Virtualna oprema</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="racunalneigre.html">Računalne igre</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="mobilneaplikacijezavr.html">Mobilne aplikacije za VR</a></li>
+            </ul>
+      </nav>
+    </header>
+    <br><br><br><br><br>
+    <h1 style="text-align:center;">Prividan okoliš</h1>
+
+    <p style="font-size:25px;">
+      Virtualni svijet ili virtualna stvarnost (engl. Virtual Reality) je oblik računalne simulacije, u kojoj se sudionik osjeća da se nalazi u umjetnom okruženju.
+
+Sudionik može gledati kroz dva malena monitora (po jedan za svako oko). Senzori detektiraju kretanje glave ili položaj tijela, što uzrokuje promjenu virtualnog promatranja položaja. Sudionik može unositi podatke rukavicama (datagloves). Te rukavice su opremljene senzorima, koji omogućuju korisniku podići ili pomaknuti virtualni objekti u simuliranoj okolini. Tehnologija je još u razvoju, ali se očekuje da će imati široku primjenu, na područjima kao što su:
+
+telekirurški zahvati,
+vojne vježbe,
+arhitektura
+u svrhu zabave ili
+psihoterapija
+Korisnici virtualne stvarnosti vide virtualni svijet i dijelove svojeg tijela (ruke, tijelo ...) kao dio virtualnog svijeta pomoću elektroničke opreme (rukavice, kaciga, odjeća, i drugog). Tržište AR / VR-a već je postalo tržište od milijardu dolara, a predviđeno je da će u roku od nekoliko godina nastaviti rasti i izvan tržišta od 120 milijardi dolara.[1]
+    </p>
+    <div style="text-align:center">
+    <video  width="600" height="400" controls>
+      <source src="habusprojektresursi/vrvid.mp4" type="video/mp4"> </div>
+  </body>
+</html>

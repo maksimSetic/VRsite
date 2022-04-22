@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="index.html">Home</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="prividanokolis.html">Prividan okoliš</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="vrmlprogramskijezik.html">VRML</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="virtualnaoprema.html">Virtualna oprema</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="racunalneigre.html">Računalne igre</a></li>
+          <li  style="font-size:25px; display: inline; padding: 10px 30px;"><a href="mobilneaplikacijezavr.html">Mobilne aplikacije za VR</a></li>
+            </ul>
+      </nav>
+    </header>
+    <br><br><br><br><br>
+    <h1 style="text-align:center;">VRML programski jezik</h1>
+
+    <p style="font-size:25px;">
+      VRML (Jezik za modeliranje virtualne stvarnosti, izgovara se vermal ili inicijalima, izvorno – prije 1995. – poznat kao jezik za označavanje virtualne stvarnosti) standardni je format datoteke za predstavljanje 3-dimenzionalne (3D) interaktivne vektorske grafike, posebno dizajniran za World Wide Web na umu. Zamijenio ga je X3D.
+    </p>
+
+    <p style="font-size:25px;">
+
+      WRL format datoteke
+      VRML je format tekstualne datoteke u kojem se, npr., vrhovi i rubovi za 3D poligon mogu navesti zajedno s bojom površine, UV-mapiranim teksturama, sjajem, prozirnošću i tako dalje.[2][3] URL-ovi se mogu povezati s grafičkim komponentama tako da web preglednik može dohvatiti web stranicu ili novu VRML datoteku s interneta kada korisnik klikne na određenu grafičku komponentu. Animacije, zvukovi, osvjetljenje i drugi aspekti virtualnog svijeta mogu biti u interakciji s korisnikom ili ih mogu pokrenuti vanjski događaji kao što su mjerači vremena. Poseban čvor skripte omogućuje dodavanje programskog koda (npr. napisanog u Javi ili ECMAScript) VRML datoteci.
+      
+      VRML datoteke se obično nazivaju "svjetovima" i imaju ekstenziju .wrl (na primjer, island.wrl). VRML datoteke su u običnom tekstu i općenito se dobro komprimiraju pomoću gzipa, što je korisno za brži prijenos putem Interneta (neke gzip komprimirane datoteke koriste ekstenziju .wrz). Mnogi programi za 3D modeliranje mogu spremati objekte i scene u VRML formatu.
+    </p>
+
+    <div style="text-align: center;">
+    <table style="margin-left:auto;margin-right:auto;font-size: 30px; border-spacing: 40px;">
+      <br>
+      <br>
+      <h1>Alternative</h1>
+      <tr>
+        <th>3DMLW</th>
+        <th>COLLADA</th>
+        <th>O3D</th>
+        <th>U3D</th>
+        <th>X3D</th>
+      </tr>
+      <tr>
+        <td>3D programski jezik za web</td>
+        <td>Menađiran od Khronos Grupe</td>
+        <td>Razvijen od Googlea</td>
+        <td> Ecma internacionalni standard ECMA-363</td>
+        <td>Nasljednik VRMLa</td>
+      </tr>
+    
+    </table>
+  </div>
+  
+  </body>
+</html>
